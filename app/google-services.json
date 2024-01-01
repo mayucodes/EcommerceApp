@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835299498716",
+    "project_id": "ecommerce-app-b8bf6",
+    "storage_bucket": "ecommerce-app-b8bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835299498716:android:d81cb5a6b0f2b56eadf219",
+        "android_client_info": {
+          "package_name": "com.shehara.e_commerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPy33bV0oGuYa9zq-7hEBRkYnNlIO5shY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
